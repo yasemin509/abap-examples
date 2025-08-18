@@ -1,5 +1,6 @@
 * Seçim ekranı olmayacak. Günün tarihini sistemden alarak ekrana aşağıdaki şekilde yazdırılacak. 
 * “Bugün M (metin olarak) ayının dd (metin olarak, “beşinci” şeklinde) günü, YYYY”
+*---------------------------------------------------------------------------------------------------
 
 DATA: lv_year TYPE c LENGTH 4,
       lv_month TYPE string,
