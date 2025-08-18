@@ -1,5 +1,5 @@
-* Write a program that reverses the text entered on the selection screen and prints it on the screen.
-* As in the examples below :
+* Seçim ekranında girilen bir metni terse çevirip ekrana yazdıran bir program yazınız.
+* Aşağıdaki örneklerdeki gibi :
 *  stressed → desserts
 *  strops → sports
 *  racecar → racecar
