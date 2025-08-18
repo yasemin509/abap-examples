@@ -3,6 +3,7 @@
 *  stressed → desserts
 *  strops → sports
 *  racecar → racecar
+*-----------------------------------------------------------------------------------------------------------
 
 PARAMETERS: pa_text TYPE string.
 
