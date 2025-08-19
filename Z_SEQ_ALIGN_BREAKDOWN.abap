@@ -12,6 +12,8 @@
 
 * 17           18
 
+*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PARAMETERS: p_val TYPE n LENGTH 2,  " max 2 karakterli nümerik değer. type olarak i ile length belirleyemiyoruz!
             p_num TYPE n LENGTH 1.  " sadece rakam girilebilir
 
