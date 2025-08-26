@@ -1,8 +1,7 @@
 * 1 parametreli bir seçim ekranı tasarlanacak.
 * Parametre 100 karakter uzunluğunda olacak.
 * Parametreye sizin belirleyeceğiniz bir ayraç ile (virgül, iki nokta, noktalı virgül, ünlem vs vs) sayılar girilecek.
-* Hangi ayracı seçerseniz seçim ekranına bunu açıklama metni olarak girmelisiniz.
-* Girilen ayraca göre sayıları ayıracak ve şu değerleri ekrana basacaksınız.
+* Girilen ayraca göre sayıları ayıracak ve şu değerleri ekrana basacaksınız:
 * 1-En büyük sayı
 * 2-En küçük sayı
 * 3-Ortalama değer
