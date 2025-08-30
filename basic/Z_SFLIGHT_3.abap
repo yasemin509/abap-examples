@@ -10,7 +10,6 @@ DATA: lt_sflight TYPE TABLE OF sflight,
       lt_result TYPE TABLE OF ty_result,
       ls_result TYPE ty_result.
 
-" USD olan uçuşları seçiyoruz
 SELECT carrid, price, currency
   FROM sflight
   INTO CORRESPONDING FIELDS OF TABLE @lt_sflight
